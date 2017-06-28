@@ -1,0 +1,2 @@
+# MonteCarloPathTracer
+利用MonteCarlo路径追踪算法实现的一个小demo
